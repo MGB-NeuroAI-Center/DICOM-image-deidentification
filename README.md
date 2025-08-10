@@ -25,7 +25,7 @@ This project performs DICOM image de-identification at both metadata and pixel l
 ### Setup Instructions
 1. Clone the repository
    ```bash
-   git clone https://gitlab.partners.org/mgb-neuroai/image-deidentification.git
+   git clone https://github.com/MGB-NeuroAI-Center/image-deidentification.git
    cd image-deidentification
    ```
 
