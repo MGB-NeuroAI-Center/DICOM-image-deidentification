@@ -1,4 +1,4 @@
-# Image Deidentification
+# DICOM Image Deidentification (legacy pydicom and Presidio tools)
 
 ## Description
 This project performs attempted DICOM image de-identification at both metadata and pixel levels. It uses the `pydicom` library to attempt to remove and pseudonymize DICOM tags and Microsoft’s `presidio-image-redactor` to redact PHI from pixel data, but it requires manual verification.
