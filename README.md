@@ -134,7 +134,7 @@ This project is licensed under the **Attribution Non-Commercial 4.0 Internationa
 - [pydicom](https://github.com/pydicom/pydicom) for DICOM handling
 
 ## Contact
-- **Project Maintainer**: Siril Raj Singa (*ssinga@mgh.harvard.edu*)
+- **Project Maintainer**: Siril Raj Singa (*ssinga[at]mgh[dot]harvard[dot]edu*)
 - **Issues**: [WIP]
 
 ---
